@@ -2,7 +2,6 @@
 public class Driver {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Point pointA = new Point(1, 2);
 		Point pointB = new Point(3, 4);
 		Point pointC = new Point(5, 6);
